@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anurag/exercism/cpp/isogram/isogram.cpp
+isogram.h
+/home/anurag/exercism/cpp/isogram/isogram.h
+string
+-
+unordered_set
+-
+
+/home/anurag/exercism/cpp/isogram/isogram.h
+string
+-
+
